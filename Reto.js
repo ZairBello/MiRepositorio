@@ -48,5 +48,6 @@ function mcd(a, b) {
 return (a * b) / mcd(a, b);
 }
 
+
 // Ejemplo de uso
 console.log(mcm(6, 4)); // Output: 12
